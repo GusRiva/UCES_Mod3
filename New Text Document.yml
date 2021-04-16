@@ -1,0 +1,8 @@
+name: UCES
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - lxml
